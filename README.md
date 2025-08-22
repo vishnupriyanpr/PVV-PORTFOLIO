@@ -50,6 +50,23 @@ Whether you're a developer, designer, or dreamer — this portfolio is your **di
 
 Want to collaborate or connect? Use the **Contact** section or reach out via your preferred social channels.  
 Let your portfolio do the talking — and make it *stellar*. ✨
+<div align="center">
+  <table style="width:100%;">
+    <tr>
+      <td align="center" style="width:50%;">
+        <a href="https://github.com/vishnupriyanpr">
+                  <img src="https://github.com/vishnupriyanpr.png?size=120" width="120px;" alt="Vishnupriyan P R"/>
+      </a>
+      </td>
+      <td align="center" style="width:50%;">
+        <blockquote>
+          <p>“Tools should disappear into the background and let you build.”</p>
+          <footer>— Vishnupriyan P R, <i>caffeinated coder ☕</i></footer>
+        </blockquote>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
